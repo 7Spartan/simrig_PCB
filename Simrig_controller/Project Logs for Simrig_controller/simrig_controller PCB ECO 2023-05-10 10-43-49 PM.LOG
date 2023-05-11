@@ -1,0 +1,273 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=+3V3 Pin=R?-1
+Removed Pin From Net: NetName=MCU_NRST Pin=R?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-6
+Removed Pin From Net: NetName=NetC?_1 Pin=Y?-3
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.1u
+Change Component Comment : Designator=C? Old Comment=2.2uF New Comment=2u2
+Change Component Comment : Designator=C? Old Comment=2.2uF New Comment=2u2
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KEMET'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0402C104K4RALTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KEMET'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0402C104K4RALTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X145N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X6S1C226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM188R61E225MA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X145N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X6S1C226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KEMET'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0402C104K4RALTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM188R61E225MA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KEMET'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0402C104K4RALTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SML-P11UTT86R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Rohm'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-P12PTT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SML-P11UTT86R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Rohm'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-P11UTT86R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL?(BEADC0603X33N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BLM03AG121SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_47346-0001)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "47346-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X37N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Vishay'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCS04020D1002BE000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT0402BRB072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X37N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Vishay'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCS04020D1002BE000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT0402BRB072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X37N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Vishay'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCS04020D1002BE000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFN50P400X400X95-24N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK InvenSense'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'ams AG'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=D?-A
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=MCU_NRST Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=+3V3 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=NetC?_1 Pin=U?-20
+Change Net Name : Old Net Name=+3V3 New Net Name=LED_PWR_A
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=FL?-2
+Added Pin To Net: NetName=+5V Pin=U?-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=IMU_INT Pin=U?-12
+Added Pin To Net: NetName=IMU_INT Pin=U?-45
+Added Net: Name=IMU_INT
+Added Pin To Net: NetName=IMU_REGOUT Pin=C?-2
+Added Pin To Net: NetName=IMU_REGOUT Pin=U?-10
+Added Net: Name=IMU_REGOUT
+Added Pin To Net: NetName=IMU_SCL Pin=R?-1
+Added Pin To Net: NetName=IMU_SCL Pin=U?-23
+Added Pin To Net: NetName=IMU_SCL Pin=U?-42
+Added Net: Name=IMU_SCL
+Added Pin To Net: NetName=IMU_SDA Pin=R?-1
+Added Pin To Net: NetName=IMU_SDA Pin=U?-24
+Added Pin To Net: NetName=IMU_SDA Pin=U?-46
+Added Net: Name=IMU_SDA
+Added Pin To Net: NetName=MCU_LED_A Pin=D?-A
+Added Pin To Net: NetName=MCU_LED_A Pin=U?-26
+Added Net: Name=MCU_LED_A
+Added Pin To Net: NetName=MCU_LED_K Pin=D?-C
+Added Pin To Net: NetName=MCU_LED_K Pin=R?-2
+Added Net: Name=MCU_LED_K
+Added Pin To Net: NetName=MCU_OSC_IN Pin=C?-1
+Added Pin To Net: NetName=MCU_OSC_IN Pin=U?-5
+Added Pin To Net: NetName=MCU_OSC_IN Pin=Y?-1
+Added Net: Name=MCU_OSC_IN
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=R?-1
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=U?-6
+Added Net: Name=MCU_OSC_OUT
+Added Pin To Net: NetName=MCU_SWCLK Pin=U?-37
+Added Net: Name=MCU_SWCLK
+Added Pin To Net: NetName=MCU_SWDIO Pin=U?-34
+Added Net: Name=MCU_SWDIO
+Added Pin To Net: NetName=MCU_SWO Pin=U?-39
+Added Net: Name=MCU_SWO
+Added Pin To Net: NetName=MCU_TIM1_CH4 Pin=U?-32
+Added Net: Name=MCU_TIM1_CH4
+Added Pin To Net: NetName=MCU_TIM2_CH1 Pin=U?-15
+Added Net: Name=MCU_TIM2_CH1
+Added Pin To Net: NetName=MCU_TIM3_CH1 Pin=U?-16
+Added Net: Name=MCU_TIM3_CH1
+Added Pin To Net: NetName=MCU_TIM4_CH2 Pin=U?-43
+Added Net: Name=MCU_TIM4_CH2
+Added Pin To Net: NetName=MCU_TIM5_CH1 Pin=U?-10
+Added Net: Name=MCU_TIM5_CH1
+Added Pin To Net: NetName=MCU_TIM9_CH1 Pin=U?-12
+Added Net: Name=MCU_TIM9_CH1
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=R?-1
+Added Net: Name=NetD?_C
+Added Pin To Net: NetName=USB_D_N Pin=J?-2
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=J?-3
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=VBUS Pin=FL?-1
+Added Pin To Net: NetName=VBUS Pin=J?-1
+Added Net: Name=VBUS
+Added Pin To Net: NetName=XTAL_IN Pin=C?-1
+Added Pin To Net: NetName=XTAL_IN Pin=R?-2
+Added Pin To Net: NetName=XTAL_IN Pin=Y?-3
+Added Net: Name=XTAL_IN
+Added Class: Name=DIFF_USB
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=simrig_controller Member=Component C? 2u2
+Added Member To Class: ClassName=simrig_controller Member=Component C? 2n2
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 10pF
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1uF
+Added Member To Class: ClassName=simrig_controller Member=Component C? 2u2
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 10pF
+Added Member To Class: ClassName=simrig_controller Member=Component C? 22uF
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 2u2
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 2u2
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component C? 0.1u
+Added Member To Class: ClassName=simrig_controller Member=Component D? GREEN
+Added Member To Class: ClassName=simrig_controller Member=Component D? SML-P11UTT86R
+Added Member To Class: ClassName=simrig_controller Member=Component FL? 120R
+Added Member To Class: ClassName=simrig_controller Member=Component J? 47346-0001
+Added Member To Class: ClassName=simrig_controller Member=Component R? 1k
+Added Member To Class: ClassName=simrig_controller Member=Component R? 10k
+Added Member To Class: ClassName=simrig_controller Member=Component R? 0R
+Added Member To Class: ClassName=simrig_controller Member=Component R? 10k
+Added Member To Class: ClassName=simrig_controller Member=Component R? 2k2
+Added Member To Class: ClassName=simrig_controller Member=Component R? 1k
+Added Member To Class: ClassName=simrig_controller Member=Component U? MPU-6050
+Added Member To Class: ClassName=simrig_controller Member=Component U? STM32F411CEU6

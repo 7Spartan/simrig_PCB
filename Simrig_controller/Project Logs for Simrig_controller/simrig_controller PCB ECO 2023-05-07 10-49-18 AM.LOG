@@ -1,0 +1,16 @@
+Added Component: Designator=J?(SULLINS_SFH11-PBPC-D20-ST-BK)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Sullins Connector'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH11-PBPC-D20-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_RPI3-MODBP-BULK)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Raspberry Pi'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RPI3-MODBP-BULK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Raspi3_controller
+Added Room: Name=Raspi3_controller
